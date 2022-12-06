@@ -1,1 +1,1 @@
-shell variables README.md file
+Shell, init files, variables and expansions
